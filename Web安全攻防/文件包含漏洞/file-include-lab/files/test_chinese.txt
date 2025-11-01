@@ -1,0 +1,4 @@
+这是一个测试文件
+包含中文内容
+Test Chinese characters: 测试中文字符
+Windows路径: C:\Windows\System32
