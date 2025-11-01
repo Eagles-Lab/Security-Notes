@@ -16,7 +16,7 @@ define('APP_KEY', 'your-secret-app-key-here');
 define('ADMIN_EMAIL', 'admin@example.com');
 
 // API密钥
-define('API_SECRET', 'sk_test_4eC39HqLyjWDarjtT1zdp7dc');
+define('API_SECRET', 'sk_test_4eC3xxxxxdc');
 
 echo "配置文件加载成功！";
 ?>
